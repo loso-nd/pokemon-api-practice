@@ -1,0 +1,11 @@
+{
+  "team": [
+    {
+      "name": "charizard",
+      "sprites": {
+        "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
+      },
+      "id": 1
+    }
+  ]
+}
